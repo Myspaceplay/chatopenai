@@ -1,0 +1,8 @@
+fastapi
+fastapi-cors
+uvicorn
+gunicorn
+httptools
+openai
+
+openai-1.82.0
